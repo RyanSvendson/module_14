@@ -26,7 +26,7 @@
 After importing and preparing the data for machine learning use the SVC classifier model is used from SKLearn's support vector machine (SVM) learning method to fit the training data and make predictions based on the testing data. Then a dataframe was created to contain columns for “Predicted” values, “Actual Returns”, and “Strategy Returns.”
 
 The plot of the basecase:
-![basecase plot](/Starter_Code/Resources/cumulative_return_plot_baseline.png)
+![basecase plot](/Starter_Code/Resources/cumulative_return_plot_Baseline.png)
 
 Then the algorithym was tuned to include the calendar year 2016 and the short and long windows were set to 6 and 75, respectively. 
 ![tuned plot](/Starter_Code/Resources/cumulative_return_plot_Tuned.png)
